@@ -1,9 +1,9 @@
 {
   "license": "ISC",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "mdos-san",
   "name": "@mds-coding/http-method",
-  "description": "Type definition of http methods",
+  "description": "`HttpMethod` class definition",
   "type": "module",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
